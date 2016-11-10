@@ -17,6 +17,7 @@ namespace Summative_3
 
     public partial class Form1 : Form
     {
+        //declared global variables
         System.Media.SoundPlayer startSoundPlayer = new System.Media.SoundPlayer(@"C:\Windows\Media\chord.wav");
 
         Random randGen = new Random();
