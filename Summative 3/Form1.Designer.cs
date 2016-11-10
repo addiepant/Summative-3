@@ -103,6 +103,7 @@
             this.Controls.Add(this.greenLabel);
             this.Controls.Add(this.redLabel);
             this.Controls.Add(this.outputLabel);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Christmas choose your adventure";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
