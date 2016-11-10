@@ -199,7 +199,7 @@ namespace Summative_3
                     outputLabel.Text = "Yikes, why are you like this?";
                     redLabel.Text = "Restart";
                     greenLabel.Text = "Close Game";
-                    break;
+                    break; 
                 default:
                     break;
             }
